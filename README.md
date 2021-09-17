@@ -2,11 +2,11 @@
 <h3 align="center">Full-Stack Developer in progress</h3>
 
 
-- 🔭 I’m currently working as **travel agent**
+- 🔭 I’m currently working as a **travel agent**
 
 - 🌱 I’m currently learning **Bootstrap, Git, JavaScript, PHP**
 
-- ⚡ Fun fact **I LOVE dogs**
+- ⚡ Fun fact: **I LOVE dogs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
