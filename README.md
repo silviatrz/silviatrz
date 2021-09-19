@@ -2,11 +2,11 @@
 <h3 align="center">I'm Silvia👩‍💻. Full-Stack Developer in progress</h3>
 
 
-- 🔭 I’m currently working as a **travel agent✈**
+🟢 Currently working as a **travel agent✈**
 
-- 🌱 I’m currently learning **Bootstrap, Git, JavaScript**
+🟢 Currently learning **Bootstrap, Git, JavaScript**
 
-- ⚡ About me: **Avid movies and series watcher📽, clumsy sketcher🎨 and dogs lover🐶**
+🟢 About me: **Avid movies and series watcher📽, clumsy sketcher🎨 and dogs lover🐶**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
