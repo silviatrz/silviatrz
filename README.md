@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Bootstrap, Git, JavaScript, PHP**
 
-- ⚡ Fun fact: **I LOVE dogs**
+- ⚡ About me: **Avid movies and series watcher, clumsy sketcher and dogs lover**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
