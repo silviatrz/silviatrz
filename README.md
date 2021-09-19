@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working as a **travel agent**
 
-- 🌱 I’m currently learning **Bootstrap, Git, JavaScript, PHP**
+- 🌱 I’m currently learning **Bootstrap, Git, JavaScript, <!---PHP--->**
 
 - ⚡ About me: **Avid movies and series watcher, clumsy sketcher and dogs lover**
 
