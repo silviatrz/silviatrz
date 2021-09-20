@@ -1,5 +1,5 @@
-<h1 align="center">console.log("Hello World")</h1>
-<h3 align="center">I'm Silvia👩‍💻. Full-Stack Developer in progress</h3>
+<h1 align="center">Hi! I'm Silvia👩‍💻</h1>
+<h3 align="center">Full-Stack Developer in progress</h3>
 
 
 🟢 Currently working as a **travel agent✈**
