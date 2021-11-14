@@ -4,7 +4,7 @@
 
 🟢 Currently working as a **travel agent✈**
 
-🟢 Currently learning **Bootstrap, Git, JavaScript, <a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;"></a>, Python**
+🟢 Currently learning **<!--React--><a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;"></a>, <!--Python--><a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" style="max-width: 100%;"></a>**
 
 🟢 About me: **Avid movies and series watcher📽, clumsy sketcher🎨 and dogs lover🐶**
 
@@ -17,9 +17,42 @@
 
 
 <h3 align="left">Technologies:</h3>
-<p align="left"> 
-<a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width: 100%;"></a>
- <!---<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> ---> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/><!--  </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> ---></p>
+<p align="left">
+<!--PLANTILLA-->
+<!---
+<a href="https://reactjs.org/" title="PLANTILLA" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/TECNOLOGIA.svg" alt="TECNOLOGIA" width="21px" height="21px" style="max-width: 100%;"></a>
+--->
+<!--HTML5-->
+<a href="https://www.w3.org/TR/html5/" title="HTML5" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/html-5.svg" alt="HTML5" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--CSS3-->
+<a href="https://www.w3.org/TR/CSS/" title="CSS3" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/css-3.svg" alt="CSS3" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--Bootstrap-->
+<a href="https://getbootstrap.com/" title="Bootstrap" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/bootstrap.svg" alt="Bootstrap" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--GIT-->
+<a href="https://git-scm.com/" title="Git" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--JavaScript-->
+ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--React-->
+<a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--Flux-->
+<!--API-->
+<!--Python-->
+<a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--Flask-->
+<!--MySQL-->
+<a href="https://dev.mysql.com/" title="MySQL" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/mysql.svg" alt="MySQL" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--Oracle-->
+<!--Java-->
+<!---
+<a href="https://www.java.com/" title="Java" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/java.svg" alt="Java" width="21px" height="21px" style="max-width: 100%;"></a>
+--->
+<!--Android-->
+<!--PHP-->
+<!---
+<a href="https://php.net/" title="PHP" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/php.svg" alt="PHP" width="21px" height="21px" style="max-width: 100%;"></a>
+--->
+
+</p>
 
 <h3 align="left">🌍 Languages:</h3>
  Español
