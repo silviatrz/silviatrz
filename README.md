@@ -10,9 +10,14 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!--- <a href="https://dev.to/silviatrz" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="silviatrz" height="30" width="40" /></a> --->
- <a href="https://linkedin.com/in/silviatrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="silviatrz" height="30" width="40" /></a>
-<a href="https://twitter.com/silviatrz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="silviatrz" height="30" width="40" /></a> 
+<!--LinkedIn-->
+<a href="https://linkedin.com/in/silviatrz" title="LinkedIn" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--Twitter-->
+<a href="https://twitter.com/silviatrz" title="Twitter" rel="nofollow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" width="21px" height="21px" style="max-width: 100%;"></a>
+<!--Dev.to-->
+<!---
+<a href="https://dev.to/silviatrz" title="Dev.to" rel="nofollow"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="Dev.to" width="21px" height="21px" style="max-width: 100%;"></a>
+--->
 </p>
 
 
