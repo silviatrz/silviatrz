@@ -4,7 +4,7 @@
 
 🟢 Currently working as a **travel agent✈**
 
-🟢 Currently learning **Bootstrap, Git, JavaScript, React, Python**
+🟢 Currently learning **Bootstrap, Git, JavaScript, <a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;"></a>, Python**
 
 🟢 About me: **Avid movies and series watcher📽, clumsy sketcher🎨 and dogs lover🐶**
 
