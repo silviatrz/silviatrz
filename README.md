@@ -1,16 +1,11 @@
-<html>
-  <head>
-  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.4.1/css/all.css"
-        integrity="sha384-5sAR7xN1Nv6T6+dT2mhtzEpVJvfS3NScPQTrOxhwjIuvcA67KV2R5Jz6kr4abQsz" crossorigin="anonymous">
-  </head>
-  <body>
 <h1 align="center">Hi! I'm Silvia👩‍💻</h1>
 <h3 align="center">Full-Stack Developer in progress</h3>
 
 
 🟢 Currently working as a **travel agent✈**
 
-🟢 Currently learning <!--React--><a href="https://reactjs.org/" title="React" rel="nofollow"><i class="fab fa-react" width="21px" height="21px" style="max-width: 100%; color: white;"></i></a><!--Python--><a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" style="max-width: 100%;"></a>
+🟢 Currently learning <!--React-->
+<a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;"></a> <!--Python--><a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" style="max-width: 100%;"></a>
 
 🟢 About me: **Avid movies and series watcher📽, clumsy sketcher🎨 and dogs lover🐶**
 
@@ -70,6 +65,4 @@
  - English
  - Français
  - 日本語
-    </body>
-    </html>
 
