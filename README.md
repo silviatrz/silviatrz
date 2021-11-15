@@ -41,6 +41,7 @@
 <!--React-->
 <a href="https://reactjs.org/" title="React" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="React" width="21px" height="21px" style="max-width: 100%;"></a>
 <!--Flux-->
+<a href="https://facebook.github.io/flux/" title="Flux" rel="nofollow"><img src="https://facebook.github.io/flux/img/flux-logo-color.svg" alt="Flux" width="21px" height="21px" style="max-width: 100%;"></a>
 <!--API-->
 <!--Python-->
 <a href="https://www.python.org/" title="Python" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px" style="max-width: 100%;"></a>
