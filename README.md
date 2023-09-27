@@ -1,8 +1,8 @@
-<h1 align="center">Hi! I'm Silvia👩‍💻</h1>
+<h1 align="center">Hi! I'm Silvia</h1>
 <h3 align="center">Full-Stack Developer in progress</h3>
 
 
-🟢 Currently working as a **travel agent✈**
+🟢 Currently working as a **developer**
 
 🟢 About me: **Avid movies and series watcher📽, clumsy sketcher🎨 and dogs lover🐶**
 
